@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Alice",
+    "preferences": {
+      "Monday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Tuesday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Wednesday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Thursday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Friday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Saturday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Sunday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ]
+    }
+  },
+  {
+    "name": "Bob",
+    "preferences": {
+      "Monday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Tuesday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Wednesday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Thursday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Friday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Saturday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Sunday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ]
+    }
+  },
+  {
+    "name": "Carol",
+    "preferences": {
+      "Monday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Tuesday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Wednesday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Thursday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Friday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Saturday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Sunday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ]
+    }
+  },
+  {
+    "name": "David",
+    "preferences": {
+      "Monday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Tuesday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Wednesday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Thursday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Friday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Saturday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Sunday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ]
+    }
+  },
+  {
+    "name": "Emma",
+    "preferences": {
+      "Monday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Tuesday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Wednesday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Thursday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Friday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Saturday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Sunday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ]
+    }
+  },
+  {
+    "name": "Frank",
+    "preferences": {
+      "Monday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Tuesday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Wednesday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Thursday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Friday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Saturday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Sunday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ]
+    }
+  },
+  {
+    "name": "Grace",
+    "preferences": {
+      "Monday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Tuesday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Wednesday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Thursday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Friday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Saturday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Sunday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ]
+    }
+  },
+  {
+    "name": "Henry",
+    "preferences": {
+      "Monday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Tuesday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Wednesday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Thursday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Friday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Saturday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Sunday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ]
+    }
+  },
+  {
+    "name": "Ivy",
+    "preferences": {
+      "Monday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Tuesday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Wednesday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Thursday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Friday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Saturday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Sunday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ]
+    }
+  },
+  {
+    "name": "Jack",
+    "preferences": {
+      "Monday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Tuesday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Wednesday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Thursday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Friday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Saturday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Sunday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ]
+    }
+  },
+  {
+    "name": "Kelly",
+    "preferences": {
+      "Monday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Tuesday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Wednesday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Thursday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Friday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Saturday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Sunday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ]
+    }
+  },
+  {
+    "name": "Liam",
+    "preferences": {
+      "Monday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Tuesday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ],
+      "Wednesday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Thursday": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "Friday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Saturday": [
+        "afternoon",
+        "evening",
+        "morning"
+      ],
+      "Sunday": [
+        "evening",
+        "morning",
+        "afternoon"
+      ]
+    }
+  }
+]
